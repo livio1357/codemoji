@@ -9,8 +9,8 @@ Codemoji wants to really change the way students learn how to code.
   Blog: <a href="http://www.codemoji.com/blog"> Blog</a> <br><br>
    Lesssons: <a href="http://www.codemoji.com/lessons"> Codemoji Coding Lessons </a><br><br>
    Play: <a href="http://www.codemoji.com/play"> Play </a><br><br>
-  Learn : <a href="http://www.codemoji.com/lessons/html/1.php">HTML Lessons one </a><br>
+  Learn : <a href="http://www.codemoji.com/lessons/html/beginner/1.php">HTML Lessons one </a><br>
 
 Mission: At the heart of Codemoji is a deep belief that learning to code should not be hindered by a lack of proficient typing or confusing syntax, but rather focused on creating, building and mastering the fundamentals of code. Codemoji empowers coders, instantly bolstering their confidence and efficiency allowing for rapid learning and long-term retention.  
 
-If you are interested in helping us inprove the platform contact: livio@codemoji.com
+
